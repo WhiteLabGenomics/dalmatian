@@ -17,12 +17,12 @@ _LONG_DESCRIPTION = open(_README).read()
 
 # Setup information
 setup(
-    name = 'firecloud-dalmatian',
+    name = 'wlg-dalmatian',
     version = __version__,
     packages = find_packages(),
     description = 'A friendly companion for FISS',
-    author = 'Broad Institute - Cancer Genome Computational Analysis',
-    author_email = 'gdac@broadinstitute.org',
+    author = '',
+    author_email = '',
     long_description = _LONG_DESCRIPTION,
     long_description_content_type = 'text/markdown',
     entry_points = {
